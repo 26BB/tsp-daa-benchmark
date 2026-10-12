@@ -1,0 +1,202 @@
+[
+  {
+    "instance":"Random-5",
+    "n_cities":5,
+    "algorithm":"Held-Karp (Exact DP)",
+    "cost":2126.09,
+    "time_sec":0.00061,
+    "peak_memory_kb":5.64,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-5",
+    "n_cities":5,
+    "algorithm":"Branch & Bound (RCM)",
+    "cost":2126.09,
+    "time_sec":0.00256,
+    "peak_memory_kb":6.22,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-5",
+    "n_cities":5,
+    "algorithm":"MST 2-Approximation",
+    "cost":2159.5,
+    "time_sec":0.00006,
+    "peak_memory_kb":1.43,
+    "approx_ratio":1.016,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-5",
+    "n_cities":5,
+    "algorithm":"Nearest Neighbour + 2-Opt",
+    "cost":2126.09,
+    "time_sec":0.00016,
+    "peak_memory_kb":0.26,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-8",
+    "n_cities":8,
+    "algorithm":"Held-Karp (Exact DP)",
+    "cost":2453.96,
+    "time_sec":0.00648,
+    "peak_memory_kb":80.59,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-8",
+    "n_cities":8,
+    "algorithm":"Branch & Bound (RCM)",
+    "cost":2453.96,
+    "time_sec":0.0267,
+    "peak_memory_kb":36.06,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-8",
+    "n_cities":8,
+    "algorithm":"MST 2-Approximation",
+    "cost":2958.05,
+    "time_sec":0.0001,
+    "peak_memory_kb":1.86,
+    "approx_ratio":1.205,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-8",
+    "n_cities":8,
+    "algorithm":"Nearest Neighbour + 2-Opt",
+    "cost":2453.96,
+    "time_sec":0.00032,
+    "peak_memory_kb":0.31,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-10",
+    "n_cities":10,
+    "algorithm":"Held-Karp (Exact DP)",
+    "cost":3029.26,
+    "time_sec":0.04748,
+    "peak_memory_kb":370.2,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-10",
+    "n_cities":10,
+    "algorithm":"Branch & Bound (RCM)",
+    "cost":3029.26,
+    "time_sec":0.22281,
+    "peak_memory_kb":343.76,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-10",
+    "n_cities":10,
+    "algorithm":"MST 2-Approximation",
+    "cost":3344.69,
+    "time_sec":0.00049,
+    "peak_memory_kb":2.17,
+    "approx_ratio":1.104,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-10",
+    "n_cities":10,
+    "algorithm":"Nearest Neighbour + 2-Opt",
+    "cost":3029.26,
+    "time_sec":0.00376,
+    "peak_memory_kb":0.34,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-12",
+    "n_cities":12,
+    "algorithm":"Held-Karp (Exact DP)",
+    "cost":3376.38,
+    "time_sec":0.32727,
+    "peak_memory_kb":2416.09,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-12",
+    "n_cities":12,
+    "algorithm":"Branch & Bound (RCM)",
+    "cost":3376.38,
+    "time_sec":2.50833,
+    "peak_memory_kb":1503.16,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-12",
+    "n_cities":12,
+    "algorithm":"MST 2-Approximation",
+    "cost":4064.5,
+    "time_sec":0.00016,
+    "peak_memory_kb":2.6,
+    "approx_ratio":1.204,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-12",
+    "n_cities":12,
+    "algorithm":"Nearest Neighbour + 2-Opt",
+    "cost":3451.07,
+    "time_sec":0.00048,
+    "peak_memory_kb":0.36,
+    "approx_ratio":1.022,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-14",
+    "n_cities":14,
+    "algorithm":"MST 2-Approximation",
+    "cost":4447.56,
+    "time_sec":0.00019,
+    "peak_memory_kb":2.92,
+    "approx_ratio":1.435,
+    "is_valid":true
+  },
+  {
+    "instance":"Random-14",
+    "n_cities":14,
+    "algorithm":"Nearest Neighbour + 2-Opt",
+    "cost":3098.38,
+    "time_sec":0.00106,
+    "peak_memory_kb":0.42,
+    "approx_ratio":1.0,
+    "is_valid":true
+  },
+  {
+    "instance":"eil51",
+    "n_cities":51,
+    "algorithm":"MST 2-Approximation",
+    "cost":615.35,
+    "time_sec":0.00171,
+    "peak_memory_kb":9.48,
+    "approx_ratio":1.391,
+    "is_valid":true
+  },
+  {
+    "instance":"eil51",
+    "n_cities":51,
+    "algorithm":"Nearest Neighbour + 2-Opt",
+    "cost":442.3,
+    "time_sec":0.11387,
+    "peak_memory_kb":1.29,
+    "approx_ratio":1.0,
+    "is_valid":true
+  }
+]
